@@ -27,6 +27,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.notification.NotiExpo",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1
     }
   }
 }
